@@ -41,3 +41,5 @@ CColumn 1|Column 2|Column 3
 Info 1  |*Info 2*  |Info 3
 Info 4  |Info 5  |__Info 6__
  Info 7 | Info 8 | Info 9 |
+
+![projet image](./Capture.PNG "projet image")
