@@ -9,8 +9,13 @@ __Phrase en gras (b)__
 *Phrase en italique (i)*
 
 Affichage d'une phrase __en gras__ et *en italique*
-__*(Phrase Gras/Italique)*__
+__*Phrase Gras/Italique*__
 
 * Phrase pour une liste a puce (li)
 * Phrase pour une liste a puce (li)
 * Phrase pour une liste a puce (li)
+
+# Installation de PHP 7.4
+sudo apt-get install php7.4
+# Installation du serveur web Apache 2
+sudo apt-get install apache2
