@@ -25,3 +25,18 @@ sudo apt-get install apache2
 ```javascript
 console.log('Colorisation syntaxique propre à ce langage'|);
 ```
+
+```php
+<?php
+  echo 'Colorisation syntaxique propre à ce langage'|;
+<?
+```
+
+- [x] 1.0.1 : Ajout d'un point d'exclamation et d'un retour a la ligne pour le fichier __login.php__
+- [ ] 1.0.0 : Version initiale de ce projet  Factice
+
+Column 1|Column 2|Column 3|
+--------|--------|--------|
+ Info 1 | Info 2 | Info 3 |
+ Info 4 | Info 5 | Info 6 |
+ Info 7 | Info 8 | Info 9 |
