@@ -15,7 +15,13 @@ __*Phrase Gras/Italique*__
 * Phrase pour une liste a puce (li)
 * Phrase pour une liste a puce (li)
 
+```bash
 # Installation de PHP 7.4
 sudo apt-get install php7.4
 # Installation du serveur web Apache 2
 sudo apt-get install apache2
+```
+
+```javascript
+console.log('Colorisation syntaxique propre à ce langage'|);
+```
